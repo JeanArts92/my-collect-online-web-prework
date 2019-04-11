@@ -3,4 +3,5 @@ def my_collect(array)
  everything = []
  while i < array.length 
  block_given?
+ everything <<
 
